@@ -46,3 +46,8 @@ Step8: saveage.kt
 
 *Add required drawable,anim in res folder
 *Add required permissions and receiver for broadcast in manifest file.
+
+
+
+
+
