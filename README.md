@@ -48,6 +48,7 @@ Step8: saveage.kt
 *Add required permissions and receiver for broadcast in manifest file.
 
 
+![outputs](https://user-images.githubusercontent.com/87126859/146316874-75908b35-1ffa-4528-85be-89bf9f3a52b0.PNG)
 
 
 
